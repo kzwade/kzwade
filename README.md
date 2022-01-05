@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**kzwade/kzwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey There!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Self taught developer, caffeine junkie, High School Student. Add me on discord`
+
+`WadeM#0001`
+
+
+
+## You can contact me here
+```
+wadem#4780        
+@wadem:matrix.org 
+```
+
+
+
+
+
+### Some Projects I'm Working On:
+
+* Terraria Game Development (TShock)
+* Unity 3D Game Design
+* Learning Flutter
+* Reaching AR 15 in GI (I know, im trash)
+
+
+### Languages I'm familiar with:
+
+* I work with C# and am well versed, but am still learning.
+* Fluent in both HTML and CSS.
+* Databasing with programs such as MySQL and Microsoft Access.
