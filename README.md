@@ -4,7 +4,7 @@
 
 `Self taught developer, caffeine junkie, High School Student. Add me on discord`
 
-`WadeM#0001`
+`wadem#4780`
 
 
 
