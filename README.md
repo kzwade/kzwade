@@ -10,7 +10,7 @@
 
 ## You can contact me here
 ```
-wadem#4780        
+Discord ~ wadem#4780        
 @wadem:matrix.org 
 ```
 
